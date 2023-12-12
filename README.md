@@ -12,7 +12,7 @@ Pengguna yang dapat memakai sistem ini adalah Admin.
 <li>Admin dapat melakukan login.</li>
 <li>Admin dapat melihat, menambahkan, memperbaharui, dan menghapus data Poli.</li>
 <li>Admin dapat melihat, menambahkan, memperbaharui, dan menghapus data Pegawai. </li>
-Admin dapat melihat, menambahkan, memperbaharui, dan menghapus data data Pasien.</li>
+<li>Admin dapat melihat, menambahkan, memperbaharui, dan menghapus data data Pasien.</li>
 <li>Admin dapat melakukan logout.</li>
 </ol>
 
